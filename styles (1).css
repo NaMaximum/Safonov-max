@@ -1,0 +1,103 @@
+*{
+  padding: 0;
+  margin: 0;
+  }
+
+
+
+body{
+	background: #a5c0ce;
+}
+
+
+
+/*footer*/
+p{
+ text-align: right;
+ color: #D3D3D3;
+ font-weight: ExtraBold;
+ margin-right: 90px;
+}
+
+
+
+footer{
+  background: #182033;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  padding: 25px 0 25px 0;
+  border-top: 2px solid #a5c0ce;
+  position: absolute;
+}
+
+
+
+/*text header*/
+h1{
+ word-spacing: 200px;
+ text-align: center;
+ color: #D3D3D3;
+}
+
+
+
+header{
+  background: #182033;
+  padding: 11px 0 11px 0;
+}
+
+
+
+/*backword*/
+h2{
+ text-align: right;
+ color: black;
+ margin-right: 80px;
+}
+
+
+
+/*zagolovki*/
+h3{
+  line-height: 1.5;
+  text-align: left;
+  font-weight: bold;
+  font-size: x-large;
+  color: black;
+  padding-right: 250px;
+  padding-left: 250px;
+  word-spacing: 320px;
+  margin-top: 30px;
+}
+
+
+
+/*text*/
+h4{
+ line-height: 1.5;
+ font-size: medium;
+ text-align: center;
+ padding-left: 250px;
+}
+
+
+
+/*Ссылка*/
+a{
+  color: #D3D3D3;
+  text-decoration: none;
+}
+
+
+
+.foto1 img{
+padding-right: 90px;
+padding-left: 110px;
+}
+
+
+
+.foto2 img{
+text-align: justify;
+}
